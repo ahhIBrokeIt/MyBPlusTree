@@ -1,0 +1,15 @@
+test,node,key,Int,1
+test,node,label,V20,2
+test,edge,key,Int,1
+test,edge,name,V20,2
+test,edge,LinkFrom,Int,3
+test,edge,LinkTo,Int,4
+londonTube,node,key,Int,1
+londonTube,node,Station,V20,2
+londonTube,node,Line,V20,3
+londonTube,edge,key,Int,1
+londonTube,edge,LinkFrom,Int,2
+londonTube,edge,LinkTo,Int,3
+londonTube,edge,direction,V20,4
+londonTube,edge,distance,V20,5
+londonTube,edge,RunTime,V20,6
